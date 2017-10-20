@@ -1,6 +1,6 @@
 {
-  "name": "{{ name }}",
-  "short_name": "{{ name }}",
+  "name": "squirrul-client",
+  "short_name": "squirrul-client",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

@@ -1,4 +1,4 @@
-# {{ name }}
+# squirrul-client
 
 ## CLI Commands
 
